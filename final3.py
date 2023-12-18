@@ -68,7 +68,7 @@ class App:
 
     
     def draw(self):
-        pyxel.cls(7)
+        pyxel.cls(5)
 
         pyxel.rect(0, 50, 90, 150, 14)
         pyxel.rect(210, 50, 300, 150, 13)
